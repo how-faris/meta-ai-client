@@ -89,7 +89,7 @@ Show Your Love To This Pkg By Giving This Repo A [Star](https://github.com/how-f
 
 ## 🤝 Contributing
 
-Contributions are currently not accepted as the code is proprietary and encrypted but if u want to give any sugesstion just reachout at how.faris.dev@outlook.com.
+Contributions are currently not accepted as the code is proprietary and encrypted but if u want to give any sugesstion just reach out at how.faris.dev@outlook.com.
 
 ---
 
