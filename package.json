@@ -108,11 +108,12 @@
     "x64"
   ],
   "files": [
-    "index.js",
-    "lib/",
-    "README.md",
-    "LICENSE"
-  ],
+  "index.js",
+  "db.js",
+  "metaClient.js",
+  "README.md",
+  "LICENSE"
+],
   "funding": {
     "type": "individual",
     "url": "https://github.com/sponsors/how-faris"
