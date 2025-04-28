@@ -1,0 +1,120 @@
+{
+  "name": "meta-ai-client",
+  "version": "1.0.0",
+  "description": "META-AI-CLIENT Is a unofficial api made by faris ali that allows to call meta ai directly from node.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/how-faris/meta-ai-client.git"
+  },
+  "keywords": [
+    "meta-ai",
+    "meta-ai-client",
+    "ai-chat",
+    "chatbot",
+    "gpt",
+    "llm",
+    "large-language-models",
+    "ai-api",
+    "meta-api",
+    "facebook-ai",
+    "ai-sdk",
+    "nlp",
+    "machine-learning",
+    "deepseek",
+    "ai-assistant",
+    "virtual-assistant",
+    "ai-integration",
+    "chat-api",
+    "ai-developer-tools",
+    "nodejs-ai",
+    "conversational-ai",
+    "ai-chatbot",
+    "rest-api-client",
+    "api-wrapper",
+    "automated-chat",
+    "cognitive-services",
+    "dialog-system",
+    "intelligent-agents",
+    "neural-networks",
+    "natural-language-processing",
+    "ai-tools",
+    "meta-platform",
+    "meta-sdk",
+    "meta-developer",
+    "ai-framework",
+    "chat-application",
+    "chat-service",
+    "ai-backend",
+    "serverless-ai",
+    "cloud-ai",
+    "tech-ai",
+    "webhooks",
+    "ai-middleware",
+    "bot-framework",
+    "bot-development",
+    "session-management",
+    "token-management",
+    "database-integration",
+    "mongodb",
+    "node-module",
+    "npm-package",
+    "javascript-library",
+    "web-development",
+    "backend-development",
+    "developer-tools",
+    "openai-alternative",
+    "ai-comparison",
+    "ai-provider",
+    "openai",
+    "gpt-4",
+    "grok",
+    "g4f"
+  ],
+  "author": {
+    "name": "Faris Ali",
+    "email": "how.faris.dev@outlook.com",
+    "url": "https://github.com/how-faris"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/how-faris/meta-ai-client/issues"
+  },
+  "homepage": "https://github.com/how-faris/meta-ai-client#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "mongodb": "^6.3.0",
+    "uuid": "^9.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "os": [
+    "linux",
+    "darwin",
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "files": [
+    "index.js",
+    "lib/",
+    "README.md",
+    "LICENSE"
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/how-faris"
+  }
+}
