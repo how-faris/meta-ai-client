@@ -1,6 +1,6 @@
 {
   "name": "meta-ai-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "META-AI-CLIENT Is a unofficial api made by faris ali that allows to call meta ai directly from node.",
   "main": "index.js",
   "type": "commonjs",
