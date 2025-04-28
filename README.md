@@ -9,14 +9,14 @@
 [![A Brand](https://readme-typing-svg.herokuapp.com?font=Charm&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=435&lines=Created+With+%F0%9F%A4%8D+By+Faris+Ali+%E2%86%92;It's+Not+Just+a+Name+Bro+%E2%86%90;It's+a+Brand+%E2%86%92+%F0%9F%A5%87)]([https://git.io/typing-svg](https://www.npmjs.com/package/npm-scrapper-faris))
 
 ### 📝 About
-**META-AI-CLIENT** Is a unofficial api made by faris ali that allows to call meta ai directly from node.
+**META-AI-CLIENT** Is a unofficial meta.ai api made by Faris Ali that allows to call meta ai directly from node.
 
 ---
 
 ## 🚀 Features
 
 - 🤖 Seamless Meta AI integration  
-- 🔄 Automatic token refresh (6h lifespan)  
+- 🔄 Automatic token refresh (Stores Chat History For 72 Hours)  
 - 💾 Persistent conversation sessions  
 
 ---
@@ -89,7 +89,7 @@ Show Your Love To This Pkg By Giving This Repo A [Star](https://github.com/how-f
 
 ## 🤝 Contributing
 
-Contributions are currently not accepted as the code is proprietary and encrypted.
+Contributions are currently not accepted as the code is proprietary and encrypted but if u want to give any sugesstion just reachout at how.faris.dev@outlook.com.
 
 ---
 
