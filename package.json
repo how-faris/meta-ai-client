@@ -84,7 +84,7 @@
   "homepage": "https://github.com/how-faris/meta-ai-client#readme",
   "dependencies": {
     "axios": "^1.6.8",
-    "uuid": "^9.0.1",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
