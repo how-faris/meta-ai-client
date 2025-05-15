@@ -16,7 +16,7 @@
 ## 🚀 Features
 
 - 🤖 Seamless Meta AI integration  
-- 🔄 Automatic token refresh (Stores Chat History For 72 Hours)  
+- 🔄 Automatic token refresh (Stores Chat History For 1 Week)  
 - 💾 Persistent conversation sessions  
 
 ---
