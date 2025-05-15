@@ -1,6 +1,6 @@
 {
   "name": "meta-ai-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "META-AI-CLIENT Is a unofficial api made by faris ali that allows to call meta ai directly from node.",
   "main": "index.js",
   "type": "commonjs",
@@ -58,10 +58,6 @@
     "ai-middleware",
     "bot-framework",
     "bot-development",
-    "session-management",
-    "token-management",
-    "database-integration",
-    "mongodb",
     "node-module",
     "npm-package",
     "javascript-library",
@@ -88,9 +84,7 @@
   "homepage": "https://github.com/how-faris/meta-ai-client#readme",
   "dependencies": {
     "axios": "^1.6.8",
-    "mongodb": "^6.3.0",
     "uuid": "^9.0.1",
-    "node-fetch": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
@@ -109,7 +103,6 @@
   ],
   "files": [
   "index.js",
-  "db.js",
   "metaClient.js",
   "README.md",
   "LICENSE"
